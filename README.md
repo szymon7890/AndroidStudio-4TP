@@ -2,11 +2,11 @@
 
 ## 4 TP Semestr 1
 
-### [my-offline-map-main](https://github.com/szymon7890/AndroidStudio-4TP/tree/main/4%20TP%20android%20semestr%201/my-offline-map-main): Projekt zawiera mapy Tarnowskie Góry oraz przewodnik, wraz z dokumentacją. Aby korzystać z wersji offline, możesz pobrać mapę z [tego linku](https://download.mapsforge.org/maps/v5/europe/poland.map).
+### [my-offline-map-main](https://github.com/szymon7890/AndroidStudio-4TP/tree/main/4%20TP%20android%20semestr%201/my-offline-map-main): Projekt zawiera mapy Tarnowskie Góry oraz przewodnik, wraz z dokumentacją. Aby korzystać z wersji offline, musisz pobrać mapę z [tego linku](https://download.mapsforge.org/).
 
 ## 4 TP Semestr 2
 
-### [Karta projek](tuhttps://github.com/szymon7890/AndroidStudio-4TP/tree/main/4%20TP%20android%20semestr%202): Opis i dokumentacja karty projektu.
+### [Karta projektu](https://github.com/szymon7890/AndroidStudio-4TP/tree/main/4%20TP%20android%20semestr%202): Opis i dokumentacja karty projektu.
 
 ## Wymagania Techniczne
 
