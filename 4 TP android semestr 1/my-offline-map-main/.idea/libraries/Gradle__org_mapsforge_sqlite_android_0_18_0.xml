@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mapsforge:sqlite-android:0.18.0" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/sqlite-android/0.18.0/91181017ce3788c3e253d093b2e2f9150cd45365/sqlite-android-0.18.0-natives-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/sqlite-android/0.18.0/d99fa312f265e2a45e304a27d7b5b82333ff69dc/sqlite-android-0.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/sqlite-android/0.18.0/9250f70873938c40febcf898aee52e903015941/sqlite-android-0.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
