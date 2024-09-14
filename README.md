@@ -1,4 +1,4 @@
-# Moje Projekty z 3TP - Android Studio
+# Moje Projekty z 4TP - Android Studio
 
 ## 4 TP Semestr 1
 
