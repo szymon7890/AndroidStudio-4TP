@@ -6,7 +6,7 @@
 
 ## 4 TP Semestr 2
 
-### [Karta projektuhttps://github.com/szymon7890/AndroidStudio-4TP/tree/main/4%20TP%20android%20semestr%202): Opis i dokumentacja karty projektu.
+### [Karta projek](tuhttps://github.com/szymon7890/AndroidStudio-4TP/tree/main/4%20TP%20android%20semestr%202): Opis i dokumentacja karty projektu.
 
 ## Wymagania Techniczne
 
